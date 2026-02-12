@@ -1,5 +1,10 @@
 # Chapter Workflow: Git and GitHub
 
+
+## New Features added from Main
+
+New main features
+
 ## Git Conflict Resolve Test
 
 This section is dedicated to testing how to resolve conflicts in Git. Conflicts occur when changes from different branches or commits overlap. (change here from upstream) To resolve a new conflict, you need to manually edit the conflicting files to reconcile the differences, then stage and commit the resolved changes.
