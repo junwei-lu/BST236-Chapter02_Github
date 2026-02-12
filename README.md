@@ -7,7 +7,7 @@ New main features
 
 ## My feature branch changes
 
-Here I change for branch.
+Here I change for branch. Second changes.
 
 ## Git Conflict Resolve Test
 
